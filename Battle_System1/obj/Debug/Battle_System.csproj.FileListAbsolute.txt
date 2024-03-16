@@ -1,0 +1,7 @@
+C:\Users\Kareem_Ashraf\source\repos\Battle_System\Battle_System\bin\Debug\Battle_System.exe.config
+C:\Users\Kareem_Ashraf\source\repos\Battle_System\Battle_System\bin\Debug\Battle_System.exe
+C:\Users\Kareem_Ashraf\source\repos\Battle_System\Battle_System\bin\Debug\Battle_System.pdb
+C:\Users\Kareem_Ashraf\source\repos\Battle_System\Battle_System\obj\Debug\Battle_System.csproj.AssemblyReference.cache
+C:\Users\Kareem_Ashraf\source\repos\Battle_System\Battle_System\obj\Debug\Battle_System.csproj.CoreCompileInputs.cache
+C:\Users\Kareem_Ashraf\source\repos\Battle_System\Battle_System\obj\Debug\Battle_System.exe
+C:\Users\Kareem_Ashraf\source\repos\Battle_System\Battle_System\obj\Debug\Battle_System.pdb
